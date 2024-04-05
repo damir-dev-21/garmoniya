@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92474810885",
+    "project_id": "garmoniya-pharm",
+    "storage_bucket": "garmoniya-pharm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92474810885:android:e1ee6434b904069db0b26c",
+        "android_client_info": {
+          "package_name": "com.venons.garmoniya_pharm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YaxVPjc8nLL9Shjpe8-zeL5tgrCjea8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
